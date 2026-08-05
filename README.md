@@ -1,0 +1,2 @@
+# rust-cli
+rust project
